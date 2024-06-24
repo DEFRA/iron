@@ -1,4 +1,4 @@
-Fork: @hapi/iron fork to add in Base64 encoding/decoding to the outputted cookie
+Fork: @hapi/iron fork to add in hex encoding/decoding to the outputted cookie
 <a href="https://hapi.dev"><img src="https://raw.githubusercontent.com/hapijs/assets/master/images/family.png" width="180px" align="right" /></a>
 
 # @hapi/iron
